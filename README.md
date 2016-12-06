@@ -41,7 +41,7 @@ const config = Object.freeze({
 
 ## Motivation
 
-Experiment.
+To enforce complete immutability.
 
 ## Configuration
 
